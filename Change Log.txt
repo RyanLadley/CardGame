@@ -1,0 +1,43 @@
+==========
+Alpha v3.0
+==========
+
+Changes
+-------------
+-Load Screen added to accomidate the larger load time needed for higher resolution cards
+
+
+Features
+-------------
+
+Bug Fixes
+-------------
+-Fixed major bug of Card Resolution, Cards are now readable
+-Fixed minor bug that would allow you to pick up discarded card, even while the discard pile was hidden.
+
+
+
+===========
+Aplha v2.0
+===========
+
+Changes
+---------------------
+-Removed side arrows for scrolling left/right
+-Hitbox for scrolling left/right now extend to bottom of screen
+-Hitbox left/right is now at the extreme edges of the screen
+-Clicking when scrolling left/right now does nothing
+-Scroll left/right speed increased
+-New Background
+
+
+Features
+---------------------
+-Add the ability to scroll up and down on board. Board is effectivly 3 times as big.
+-Collapsible discard pile added, just add cards. 
+-Discard pile independtent to each side
+
+
+Bug Fixes
+---------------------
+-Fixed bug that wouldn't let you pick up cards when exposed above hand.
